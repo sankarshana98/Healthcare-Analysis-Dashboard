@@ -22,7 +22,7 @@ The dataset utilized in this case study represents a slice of real-world healthc
 ### Installation
 To replicate the analysis performed in this case study, follow these steps:
 
-- Clone the Repository: git clone https://github.com/sankarshana98/DataAnalytics-Dashboards.git
+- Clone the Repository: git clone https://github.com/sankarshana98/Healthcare-Analysis-Dashboard.git
 - Install Power BI Desktop: Download and install the latest version of Power BI Desktop.
 - Open the Project: Launch Power BI Desktop and open the provided .pbix file.
 Explore and Analyze: Dive into the dataset, explore visualizations, and delve into the provided DAX calculations.
