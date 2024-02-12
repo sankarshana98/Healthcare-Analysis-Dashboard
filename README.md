@@ -42,4 +42,4 @@ Contributions to enhance the analysis, optimize DAX calculations, or improve vis
 - Create a new Pull Request.
 
 ##### Credits
-This case study is inspired by real-world scenarios and datasets commonly encountered in healthcare analytics. Special thanks to the creators of the original dataset used in this analysis.
+This case study was conducted with the invaluable guidance and resources provided by DataCamp, a leading platform for data science education. Special thanks to DataCamp for their support in creating this insightful analysis.
