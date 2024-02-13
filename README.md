@@ -17,10 +17,14 @@ In this case study, we delve into the intricacies of a dataset to unravel the fa
 
 ## Features
 Data Exploration: Dive deep into the provided dataset to understand its structure and nuances.
+
 DAX Calculations: Employ Data Analysis Expressions to create calculated columns and measures for thorough analysis.
+
 Visualization: Craft visually engaging charts and graphs to represent trends and relationships within the data.
+
 Dashboard Creation: Aggregate insights into an intuitive business dashboard for seamless communication of findings.
-Dataset
+
+## Dataset
 The dataset utilized in this case study represents a slice of real-world healthcare data, meticulously curated to provide a rich ground for analysis. It encompasses various attributes including patient demographics, medical procedures, and billing information.
 
 ### Installation
@@ -29,17 +33,21 @@ To replicate the analysis performed in this case study, follow these steps:
 - Clone the Repository: git clone https://github.com/sankarshana98/Healthcare-Analysis-Dashboard.git
 - Install Power BI Desktop: Download and install the latest version of Power BI Desktop.
 - Open the Project: Launch Power BI Desktop and open the provided .pbix file.
-Explore and Analyze: Dive into the dataset, explore visualizations, and delve into the provided DAX calculations.
+- Explore and Analyze: Dive into the dataset, explore visualizations, and delve into the provided DAX calculations.
 
 #### Usage
 Exploratory Analysis: Begin by exploring the dataset to understand its structure and content.
+
 Data Modeling: Implement necessary data transformations and create calculated columns and measures using DAX.
+
 Visualization: Design insightful visualizations to represent key findings and trends within the data.
+
 Dashboard Development: Compile visualizations into a cohesive business dashboard for effective communication of insights.
-Contributions
+
+###### Contributions
 Contributions to enhance the analysis, optimize DAX calculations, or improve visualizations are highly encouraged. To contribute, follow these steps:
 
-#### Fork the repository.
+####### Fork the repository:
 - Create a new branch (git checkout -b feature/improvement).
 - Make modifications and commit changes (git commit -am 'Add feature/improvement').
 - Push to the branch (git push origin feature/improvement).
