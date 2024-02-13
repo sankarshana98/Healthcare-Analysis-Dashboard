@@ -47,11 +47,11 @@ Dashboard Development: Compile visualizations into a cohesive business dashboard
 ###### Contributions
 Contributions to enhance the analysis, optimize DAX calculations, or improve visualizations are highly encouraged. To contribute, follow these steps:
 
-####### Fork the repository:
+###### Fork the repository:
 - Create a new branch (git checkout -b feature/improvement).
 - Make modifications and commit changes (git commit -am 'Add feature/improvement').
 - Push to the branch (git push origin feature/improvement).
 - Create a new Pull Request.
 
-##### Credits
+###### Credits
 This case study was conducted with the invaluable guidance and resources provided by DataCamp, a leading platform for data science education. Special thanks to DataCamp for their support in creating this insightful analysis.
