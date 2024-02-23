@@ -53,5 +53,3 @@ Contributions to enhance the analysis, optimize DAX calculations, or improve vis
 - Push to the branch (git push origin feature/improvement).
 - Create a new Pull Request.
 
-###### Credits
-This case study was conducted with the invaluable guidance and resources provided by DataCamp, a leading platform for data science education. Special thanks to DataCamp for their support in creating this insightful analysis.
